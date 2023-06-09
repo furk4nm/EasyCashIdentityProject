@@ -7,6 +7,47 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\easy_cash-starter\about.html" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\css\style-starter.css" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.eot" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.svg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.woff" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\fonts\FontAwesome.otf" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\1.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\2.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\3.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\4.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\5.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\6.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b1.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b2.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b3.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b4.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b5.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b6.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b7.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\b8.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\c1.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\c2.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\images\c3.jpg" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\all.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\app.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\bootstrap.min.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\jquery-3.3.1.min.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\owl.carousel.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\particles.min.js.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\popper.min.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\js\script.js" />
+    <Content Remove="wwwroot\easy_cash-starter\assets\videos\video.mp4" />
+    <Content Remove="wwwroot\easy_cash-starter\contact.html" />
+    <Content Remove="wwwroot\easy_cash-starter\index.html" />
+    <Content Remove="wwwroot\easy_cash-starter\services.html" />
+    <Content Remove="wwwroot\easy_cash-starter\starter-license-W3Layouts.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="wwwroot\gentela-gh-pages\vendors\parsleyjs\bower_components\bootstrap\bower.json" />
     <Content Include="wwwroot\gentela-gh-pages\vendors\parsleyjs\bower_components\bootstrap\dist\css\bootstrap-theme.css" />
     <Content Include="wwwroot\gentela-gh-pages\vendors\parsleyjs\bower_components\bootstrap\dist\css\bootstrap-theme.min.css" />
@@ -25,6 +66,44 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\easy_cash-starter\about.html" />
+    <None Include="wwwroot\easy_cash-starter\assets\css\style-starter.css" />
+    <None Include="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\easy_cash-starter\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\easy_cash-starter\assets\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\1.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\2.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\3.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\4.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\5.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\6.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b1.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b2.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b3.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b4.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b5.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b6.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b7.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\b8.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\c1.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\c2.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\images\c3.jpg" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\all.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\app.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\owl.carousel.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\particles.min.js.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\popper.min.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\js\script.js" />
+    <None Include="wwwroot\easy_cash-starter\assets\videos\video.mp4" />
+    <None Include="wwwroot\easy_cash-starter\contact.html" />
+    <None Include="wwwroot\easy_cash-starter\index.html" />
+    <None Include="wwwroot\easy_cash-starter\services.html" />
+    <None Include="wwwroot\easy_cash-starter\starter-license-W3Layouts.txt" />
     <None Include="wwwroot\gentela-gh-pages\vendors\Chart.js\.github\ISSUE_TEMPLATE.md" />
     <None Include="wwwroot\gentela-gh-pages\vendors\Chart.js\.github\PULL_REQUEST_TEMPLATE.md" />
     <None Include="wwwroot\gentela-gh-pages\vendors\echarts\.github\CONTRIBUTING.md" />
@@ -201,6 +280,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+    <PackageReference Include="NETCore.MailKit" Version="2.1.0" />
   </ItemGroup>
 
   <ItemGroup>
